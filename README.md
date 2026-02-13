@@ -1,2 +1,12 @@
-# MSDS422_FinalProject
-Final Project materials for Group 6 - Nikita Jain, Charlie Peng, Yanchen Zou
+# MSDS422 - FinalProject
+
+## NFL Game Outcome Prediction
+Contributors: Nikita Jain, Charlie Peng, Yanchen Zou
+
+## Course
+MSDS 422: Practical Machine Learning, Winter 2026
+
+---
+
+## Project Overview
+
