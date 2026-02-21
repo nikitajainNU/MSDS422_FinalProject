@@ -1,0 +1,3 @@
+slides
+add eda, feature engineering, explanation to the report
+help them set up the branches for local repo 
