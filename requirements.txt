@@ -1,1 +1,7 @@
+Modeling:
+Maybe we can begin with a baseline model, such as logistic regression, to set up a benchmark. Then, we can explore to more advanced models, such as decision trees, random trees.
+Also, the modeling section contains splitting, preprocessing for different models, tunning hyperparameters.
 
+Evaluation:
+To evaluate model performance, we can use appropriate classification metrics such as accuracy, precision, recall, F1-score, and ROC-AUC. Because our prediction may involve class imbalance of prediction errors, we can compare multiple metrics.
+The final model will be selected based on both predictive performance and interpretability.
