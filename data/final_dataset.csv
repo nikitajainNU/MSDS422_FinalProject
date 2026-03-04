@@ -1,4 +1,4 @@
-game_id,season,week,home_team,away_team,result,home_win,home_ewma_dynamic_rush_offense,home_ewma_dynamic_pass_offense,home_ewma_dynamic_rush_defense,home_ewma_dynamic_pass_defense,away_ewma_dynamic_rush_offense,away_ewma_dynamic_pass_offense,away_ewma_dynamic_rush_defense,away_ewma_dynamic_pass_defense
+game_id,season,week,home_team,away_team,result,home_win,home_ewma_rushing_offense,home_ewma_passing_offense,home_ewma_rushing_defense,home_ewma_passing_defense,away_ewma_rushing_offense,away_ewma_passing_offense,away_ewma_rushing_defense,away_ewma_passing_defense
 2000_01_ARI_NYG,2000,1,NYG,ARI,5,1,-0.10616740888389549,0.024206257894268144,-0.1216524576092968,0.14260209437228644,-0.10773453214410775,-0.1605570190276197,0.10186653023707251,0.1179121871166496
 2000_01_BAL_PIT,2000,1,PIT,BAL,-16,0,-0.10705203695473586,-0.1125611607882756,-0.03868415435399741,0.01081646728988296,-0.08400462848086619,-0.1343839243642144,-0.20342199435968744,-0.2114851229404604
 2000_01_CAR_WAS,2000,1,WAS,CAR,3,1,-0.059887471289653244,-0.002950700630247176,-0.15145367186427466,-0.08200076155472896,-0.2476799119849939,0.19769151200639953,0.07096159567048269,0.005273390838878396
