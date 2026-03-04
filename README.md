@@ -1,7 +1,7 @@
 # NFL Team Win Prediction
 
 ## Overview
-This project aims to predict whether an NFL team(Chicago Bears?) will win a game based on historical game statistics and team performance data. It is a binary classification problem.
+This project aims to predict whether an NFL team will win a game based on historical game statistics and team performance data. It is a binary classification problem.
 
 ## Objectives
 - Predict NFL game outcomes
